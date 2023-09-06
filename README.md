@@ -3,7 +3,7 @@
 >Bootstrap was developed by `Mark Otto` and `Jacob Thornton` at Twitter, and released as an open source product in August 2011 on `GitHub`.
 
 ## Resources
-1. Bootstrap Docs  [bootstrapdocs](https://getbootstrap.com/docs/5.0)
+1. Bootstrap Docs  [bootstrapdocs](https://getbootstrap.com/docs/5.3)
 2. W3Schools [w3](https://www.w3schools.com/bootstrap5/index.php)
 
 ## Contents
