@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@600&family=Poppins:ital,wght@0,300;0,700;0,800;0,900;1,600;1,700;1,900&family=Work+Sans:wght@500&display=swap');
+body{
+    font-family: 'Work Sans',sans-serif;
+    background-color: #EEEDE7;
+}
+h1, h2, h3, h4{
+font-family: 'Eczar', serif;
+}
+.bg-custom{
+    background-color: #B9B7BD;
+}
+.bg-custom2{
+    background-color: #E7D2CC;
+}
+.btn-color{
+    background-color: #B9B7BD;
+    padding: 8px 20px;
+}
+.btn-color:hover{
+    background: #868B8E;
+    color: #fff;
+}
+.box{
+    border-radius: 24px;
+    background: #FFF8F2;
+}
+
+a{
+    color: #4E5E80;
+    font-weight: 600;
+    line-height: 150%;
+    text-decoration: none;
+}
+
+.w-md-50 {
+    width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    .w-md-50 {
+        width: 100%;
+    }
+}
